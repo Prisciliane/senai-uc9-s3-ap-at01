@@ -1,0 +1,27 @@
+{
+  "casa": [],
+  "cadastro": [
+    {
+      "email": "prisciliane_valeska@hotmail.com",
+      "cpf": "0000",
+      "nome": "prisciliane alves",
+      "dataNasc": "2021-08-16",
+      "telefone": "12447",
+      "id": 1
+    }
+  ],
+  "compra": [],
+  "evento": [
+    {
+      "nomeSolicitante": "Prisciliane",
+      "nomeEvento": "Festa",
+      "descricao": "Show",
+      "data": "2021-12-12",
+      "preco": "40",
+      "enderecoEvento": "",
+      "quantidadeIngresso": null,
+      "patrocinadorEvento": "",
+      "id": 1
+    }
+  ]
+}
