@@ -34,5 +34,9 @@ export class CadastroService {
     const url = `${this.baseurl}/${cadastro.id}`
     return this.http.put<Cadastro>(url, cadastro)
   }
+  deleteCadastro(id: number): Observable<Cadastro>{
+    const url =`${this.baseurl}/${id}`
+    return this.http.delete<Cadastro>(url)
+  }
   
 }
