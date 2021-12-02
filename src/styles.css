@@ -2,3 +2,12 @@
 @import url("https://fonts.googleapis.com/css?family=Montserrat:400,500,700,900");
 
 body { margin: 0px; font-family: 'Montserrat';}
+
+.errorMsg{
+    background-color: rgb(228, 15, 15);
+    color:chartreuse
+}
+.successMsg{
+    background-color: rgb(241, 2, 50);
+    color:cyan
+}

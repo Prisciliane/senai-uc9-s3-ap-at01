@@ -31,7 +31,7 @@ export class CadastroDeleteComponent implements OnInit {
     });
 
   }
-candelarCadastro(): void{
+cancelarCadastro(): void{
   this.router.navigate(["/cadastro"]);
 }
   tabelaCadastro(): void{
